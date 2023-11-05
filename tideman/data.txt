@@ -1,0 +1,20 @@
+ow into a file data.txt (including the last line-break character!)
+
+4
+Alice
+Bob
+Charlie
+David
+Alice
+Bob
+Charlie
+David
+Alice
+Bob
+Charlie
+David
+Alice
+Bob
+Charlie
+David
+ 

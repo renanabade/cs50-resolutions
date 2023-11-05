@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: n^2 O notation. It was the sort that took the longest. In the slides we can see that bubble sort generally takes longer than selection sort
+
+sort2 uses: merge sort
+
+How do you know?: n log n O notation. It was the fastest one.
+
+sort3 uses: selection sort
+
+How do you know?: n^2 O notation. It took less than bubble sort, but it's long either.
